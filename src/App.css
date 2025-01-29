@@ -1,0 +1,96 @@
+/* Global Styles */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  color: #333;
+}
+
+.header {
+  background-color: #2c3e50; /* Dark blue */
+  padding: 10px 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+
+.nav-links {
+  display: flex;
+  justify-content: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin: 0 15px;
+}
+
+.nav-links a {
+  color: #ecf0f1; /* Light gray */
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.nav-links a:hover {
+  text-decoration: underline;
+}
+
+/* Component Backgrounds */
+.home-section {
+  background-color: #ffebee; /* Light pink */
+  color: #c62828; /* Dark red */
+}
+
+.about-section {
+  background-color: #e8f5e9; /* Light green */
+  color: #2e7d32; /* Dark green */
+}
+
+.skills-section {
+  background-color: #e3f2fd; /* Light blue */
+  color: #1565c0; /* Dark blue */
+}
+
+.projects-section {
+  background-color: #f3e5f5; /* Lavender */
+  color: #6a1b9a; /* Purple */
+}
+
+.certificates-section {
+  background-color: #fff8e1; /* Light yellow */
+  color: #ff8f00; /* Amber */
+}
+
+.contact-section {
+  background-color: #ede7f6; /* Light purple */
+  color: #4527a0; /* Deep purple */
+}
+
+/* Section Styles */
+.section {
+  padding: 20px;
+  margin: 20px;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.section h1 {
+  margin-bottom: 10px;
+  font-size: 24px;
+  color: inherit; /* Use the section-specific color */
+}
+
+.section p {
+  font-size: 16px;
+  color: #555; /* Slightly muted text */
+}
+
+.section ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+.section ul li {
+  margin: 5px 0;
+}
