@@ -1,0 +1,11 @@
+<html>
+<body>
+</body>
+<script>
+function calc(candies){
+console.log("Sam: "+(candies-(candies\n"+"angels: " +(candies/4)+"candies");
+}
+var res=calc(75)
+console.log(res)
+</script>
+</html>
