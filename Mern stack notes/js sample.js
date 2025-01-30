@@ -1,1 +1,0 @@
-console.log("Js as separate file")
