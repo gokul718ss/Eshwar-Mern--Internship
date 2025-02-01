@@ -1,0 +1,16 @@
+UseEffect
+
+      upon the condition or action we apply in our functional components monitoring the impact or sideeffects can be done by using useeffect hook
+
+    It access two arguments:
+             
+           call back function
+           dependency array
+
+ call back function
+   
+             it is like a constructor in java
+
+dependency array
+
+             

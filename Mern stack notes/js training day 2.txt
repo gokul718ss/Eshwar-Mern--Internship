@@ -1,0 +1,58 @@
+GitHub
+
+day wise need to create a folder 6jan2025 
+
+two folders
+      
+      content
+      handson
+
+Need to complete tailwind css
+
+Console
+
+     we can track the program flow
+
+ES 6
+
+  js
+   
+    ecma script
+
+arrow function - under es 6
+
+its from es 6 for efficiency in terms of space and to increase a readability
+we can create a functions without name and its called as arrow function
+
+document.getelementById("response").innerHTML = howareyou();
+
+object=document
+getElementById=method
+innerHTML= property
+
+design a simple calculator by getting two numbers as input diplay addition subtraction product quotient remainder by creating individual arrow function for the same
+
+create an array by taking array size and array elements from the user extract all the perfect numbers and even prime number
+
+oops-object oriented programming structure
+
+example
+     
+    class=bird
+    objects=Eagle,parrot,peacock
+    properties=colours,wings,weight
+    behaviour(methods)=flying,singing,eating)
+
+js objects
+
+
+
+js promise
+
+        It is a javascript object 
+two states:
+        
+        resolved(success)
+        rejected(failure)
+note:invoking a function
+     callback
